@@ -1,5 +1,12 @@
 # MovieApp 🎬
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fbe67b64-5e3e-4852-83cd-73c1d73227b7" width="30%" />
+  <img src="https://github.com/user-attachments/assets/7984e31f-7101-4c38-a192-b421c05b7986" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c54c6ec5-4faa-42b6-940f-804e963146a1" width="30%" />
+</p>
+
+
 **MovieApp** — müasir Android inkişaf standartları (Modern Android Development) ilə hazırlanmış, filmlərin kəşf edilməsi və idarə olunması üçün nəzərdə tutulmuş mobil tətbiqdir. 
 
 ## 🌟 Əsas Xüsusiyyət: Offline-First
